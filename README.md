@@ -12,3 +12,4 @@ All solutions are in JavaScript.
 | --- | :--------------------------------------------------------------------------------------------- |
 | 1   | [Convert Celsius to Fahrenheit](basic-algorithm-scripting/01-convert-celsius-to-fahrenheit.js) |
 | 2   | [Reverse a String](basic-algorithm-scripting/02-reverse-a-string.js)                           |
+| 2   | [Factorialize a Number](basic-algorithm-scripting/03-factorialize-a-number.js)                 |
