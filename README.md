@@ -11,3 +11,4 @@ All solutions are in JavaScript.
 | #   | My Solution                                                                                   |
 | --- | :-------------------------------------------------------------------------------------------- |
 | 1   | [Convert Celsius to Fahrenheit](basic-algorithm-scripting/1-convert-celsius-to-fahrenheit.js) |
+| 2   | [Reverse a String](basic-algorithm/2-reverse-a-string.js)                                     |
