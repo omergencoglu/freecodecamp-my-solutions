@@ -8,7 +8,7 @@ All solutions are in JavaScript.
 
 [Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 
-| #   | My Solution                                                                                                |
-| --- | :--------------------------------------------------------------------------------------------------------- |
-| 1   | [Convert Celsius to Fahrenheit](../blob/main/basic-algorithm-scripting/1-convert-celsius-to-fahrenheit.js) |
-| 2   | [Reverse a String](basic-algorithm/2-reverse-a-string.js)                                                  |
+| #   | My Solution                                                                                           |
+| --- | :---------------------------------------------------------------------------------------------------- |
+| 1   | [Convert Celsius to Fahrenheit](../main/basic-algorithm-scripting/1-convert-celsius-to-fahrenheit.js) |
+| 2   | [Reverse a String](basic-algorithm/2-reverse-a-string.js)                                             |
