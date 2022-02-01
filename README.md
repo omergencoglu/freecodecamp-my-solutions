@@ -20,3 +20,4 @@ All solutions are in JavaScript.
 | 8   | [Truncate a String](basic-algorithm-scripting/08-truncate-a-string.js)                                 |
 | 9   | [Finders Keepers](basic-algorithm-scripting/09-finders-keepers.js)                                     |
 | 10  | [Boo who](basic-algorithm-scripting/10-boo-who.js)                                                     |
+| 11  | [Title Case a Sentence](basic-algorithm-scripting/11-title-case-a-sentence.js)                         |
