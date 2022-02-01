@@ -17,3 +17,4 @@ All solutions are in JavaScript.
 | 5   | [Return Largest Numbers in Arrays](basic-algorithm-scripting/05-return-largest-numbers-in-arrays.js)   |
 | 6   | [Confirm the Ending](basic-algorithm-scripting/06-confirm-the-ending.js)                               |
 | 7   | [Repeat a String Repeat a String](basic-algorithm-scripting/07-repeat-a-string.js)                     |
+| 8   | [Truncate a String](basic-algorithm-scripting/08-truncate-a-string.js)                                 |
