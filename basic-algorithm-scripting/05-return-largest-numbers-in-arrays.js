@@ -19,7 +19,7 @@
  */
 
 function largestOfFour(arr) {
-  let newArr = [];
+  const newArr = [];
   for (let i of arr) {
     newArr.push(
       i.reduce((a, b) => {
