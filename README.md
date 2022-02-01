@@ -18,3 +18,4 @@ All solutions are in JavaScript.
 | 6   | [Confirm the Ending](basic-algorithm-scripting/06-confirm-the-ending.js)                               |
 | 7   | [Repeat a String Repeat a String](basic-algorithm-scripting/07-repeat-a-string.js)                     |
 | 8   | [Truncate a String](basic-algorithm-scripting/08-truncate-a-string.js)                                 |
+| 9   | [Finders Keepers](basic-algorithm-scripting/09-finders-keepers.js)                                     |
