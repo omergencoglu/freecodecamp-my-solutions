@@ -14,3 +14,4 @@ All solutions are in JavaScript.
 | 2   | [Reverse a String](basic-algorithm-scripting/02-reverse-a-string.js)                                   |
 | 3   | [Factorialize a Number](basic-algorithm-scripting/03-factorialize-a-number.js)                         |
 | 4   | [Find the Longest Word in a String](basic-algorithm-scripting/04-find-the-longest-word-in-a-string.js) |
+| 5   | [Return Largest Numbers in Arrays](basic-algorithm-scripting/05-return-largest-numbers-in-arrays.js)   |
