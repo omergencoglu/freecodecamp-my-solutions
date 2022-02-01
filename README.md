@@ -21,3 +21,4 @@ All solutions are in JavaScript.
 | 9   | [Finders Keepers](basic-algorithm-scripting/09-finders-keepers.js)                                     |
 | 10  | [Boo who](basic-algorithm-scripting/10-boo-who.js)                                                     |
 | 11  | [Title Case a Sentence](basic-algorithm-scripting/11-title-case-a-sentence.js)                         |
+| 12  | [Slice and Splice](basic-algorithm-scripting/12-slice-and-splice.js)                                   |
