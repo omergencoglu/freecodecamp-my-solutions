@@ -22,3 +22,4 @@ All solutions are in JavaScript.
 | 10  | [Boo who](basic-algorithm-scripting/10-boo-who.js)                                                     |
 | 11  | [Title Case a Sentence](basic-algorithm-scripting/11-title-case-a-sentence.js)                         |
 | 12  | [Slice and Splice](basic-algorithm-scripting/12-slice-and-splice.js)                                   |
+| 13  | [Falsy Bouncer](basic-algorithm-scripting/13-falsy-bouncer.js)                                         |
