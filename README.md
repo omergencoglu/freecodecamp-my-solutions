@@ -23,3 +23,4 @@ All solutions are in JavaScript.
 | 11  | [Title Case a Sentence](basic-algorithm-scripting/11-title-case-a-sentence.js)                         |
 | 12  | [Slice and Splice](basic-algorithm-scripting/12-slice-and-splice.js)                                   |
 | 13  | [Falsy Bouncer](basic-algorithm-scripting/13-falsy-bouncer.js)                                         |
+| 14  | [Where do I Belong](basic-algorithm-scripting/14-where-do-i-belong.js)                                 |
