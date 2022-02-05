@@ -31,6 +31,6 @@ All solutions are in JavaScript.
 
 [Link to freeCodeCamp's Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-| #   | My Solution                                                                           |
-| --- | :------------------------------------------------------------------------------------ |
-| 1   | [Sum All Numbers in a Range](intermediate-algorithm/01-sum-all-numbers-in-a-range.js) |
+| #   | My Solution                                                                                     |
+| --- | :---------------------------------------------------------------------------------------------- |
+| 1   | [Sum All Numbers in a Range](intermediate-algorithm-scripting/01-sum-all-numbers-in-a-range.js) |
