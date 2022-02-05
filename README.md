@@ -26,3 +26,11 @@ All solutions are in JavaScript.
 | 14  | [Where do I Belong](basic-algorithm-scripting/14-where-do-i-belong.js)                                 |
 | 15  | [Mutations](basic-algorithm-scripting/15-mutations.js)                                                 |
 | 16  | [Chunky Monkey](basic-algorithm-scripting/16-chunky-monkey.js)                                         |
+
+## Intermediate Algorithm Challenge
+
+[Link to freeCodeCamp's Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+| #   | My Solution                                                                           |
+| --- | :------------------------------------------------------------------------------------ |
+| 1   | [Sum All Numbers in a Range](intermediate-algorithm/01-sum-all-numbers-in-a-range.js) |
