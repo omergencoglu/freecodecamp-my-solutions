@@ -34,3 +34,4 @@ All solutions are in JavaScript.
 | #   | My Solution                                                                                     |
 | --- | :---------------------------------------------------------------------------------------------- |
 | 1   | [Sum All Numbers in a Range](intermediate-algorithm-scripting/01-sum-all-numbers-in-a-range.js) |
+| 2   | [Diff Two Arrays](intermediate-algorithm-scripting/02-diff-two-arrays.js)                       |
