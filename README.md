@@ -38,3 +38,4 @@ All solutions are in JavaScript.
 | 3   | [Seek and Destroy](intermediate-algorithm-scripting/03-seek-and-destroy.js)                     |
 | 4   | [Wherefore art thou](intermediate-algorithm-scripting/04-wherefore-art-thou.js)                 |
 | 5   | [Spinal Tap Case](intermediate-algorithm-scripting/05-spinal-tap-case.js)                       |
+| 6   | [Pig Latin](intermediate-algorithm-scripting/06-pig-latin.js)                                   |
