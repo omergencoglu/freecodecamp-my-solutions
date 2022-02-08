@@ -39,3 +39,4 @@ All solutions are in JavaScript.
 | 4   | [Wherefore art thou](intermediate-algorithm-scripting/04-wherefore-art-thou.js)                 |
 | 5   | [Spinal Tap Case](intermediate-algorithm-scripting/05-spinal-tap-case.js)                       |
 | 6   | [Pig Latin](intermediate-algorithm-scripting/06-pig-latin.js)                                   |
+| 7   | [Search and Replace](intermediate-algorithm-scripting/07-search-and-replace.js)                 |
