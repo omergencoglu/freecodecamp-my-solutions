@@ -42,3 +42,4 @@ All solutions are in JavaScript.
 | 7   | [Search and Replace](intermediate-algorithm-scripting/07-search-and-replace.js)                 |
 | 8   | [DNA Pairing](intermediate-algorithm-scripting/08-dna-pairing.js)                               |
 | 9   | [Missing letters](intermediate-algorithm-scripting/09-missing-letters.js)                       |
+| 10  | [Sorted Union](intermediate-algorithm-scripting/10-sorted-union.js)                             |
