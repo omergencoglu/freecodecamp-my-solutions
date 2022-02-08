@@ -40,3 +40,5 @@ All solutions are in JavaScript.
 | 5   | [Spinal Tap Case](intermediate-algorithm-scripting/05-spinal-tap-case.js)                       |
 | 6   | [Pig Latin](intermediate-algorithm-scripting/06-pig-latin.js)                                   |
 | 7   | [Search and Replace](intermediate-algorithm-scripting/07-search-and-replace.js)                 |
+| 8   | [DNA Pairing](intermediate-algorithm-scripting/08-dna-pairing.js)                               |
+| 9   | [Missing letters](intermediate-algorithm-scripting/09-missing-letters.js)                       |
