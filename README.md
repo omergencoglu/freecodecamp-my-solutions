@@ -31,16 +31,17 @@ All solutions are in JavaScript.
 
 [Link to freeCodeCamp's Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-| #   | My Solution                                                                                     |
-| --- | :---------------------------------------------------------------------------------------------- |
-| 1   | [Sum All Numbers in a Range](intermediate-algorithm-scripting/01-sum-all-numbers-in-a-range.js) |
-| 2   | [Diff Two Arrays](intermediate-algorithm-scripting/02-diff-two-arrays.js)                       |
-| 3   | [Seek and Destroy](intermediate-algorithm-scripting/03-seek-and-destroy.js)                     |
-| 4   | [Wherefore art thou](intermediate-algorithm-scripting/04-wherefore-art-thou.js)                 |
-| 5   | [Spinal Tap Case](intermediate-algorithm-scripting/05-spinal-tap-case.js)                       |
-| 6   | [Pig Latin](intermediate-algorithm-scripting/06-pig-latin.js)                                   |
-| 7   | [Search and Replace](intermediate-algorithm-scripting/07-search-and-replace.js)                 |
-| 8   | [DNA Pairing](intermediate-algorithm-scripting/08-dna-pairing.js)                               |
-| 9   | [Missing letters](intermediate-algorithm-scripting/09-missing-letters.js)                       |
-| 10  | [Sorted Union](intermediate-algorithm-scripting/10-sorted-union.js)                             |
-| 11  | [Convert HTML Entities](intermediate-algorithm-scripting/11-convert-html-entities.js)           |
+| #   | My Solution                                                                                           |
+| --- | :---------------------------------------------------------------------------------------------------- |
+| 1   | [Sum All Numbers in a Range](intermediate-algorithm-scripting/01-sum-all-numbers-in-a-range.js)       |
+| 2   | [Diff Two Arrays](intermediate-algorithm-scripting/02-diff-two-arrays.js)                             |
+| 3   | [Seek and Destroy](intermediate-algorithm-scripting/03-seek-and-destroy.js)                           |
+| 4   | [Wherefore art thou](intermediate-algorithm-scripting/04-wherefore-art-thou.js)                       |
+| 5   | [Spinal Tap Case](intermediate-algorithm-scripting/05-spinal-tap-case.js)                             |
+| 6   | [Pig Latin](intermediate-algorithm-scripting/06-pig-latin.js)                                         |
+| 7   | [Search and Replace](intermediate-algorithm-scripting/07-search-and-replace.js)                       |
+| 8   | [DNA Pairing](intermediate-algorithm-scripting/08-dna-pairing.js)                                     |
+| 9   | [Missing letters](intermediate-algorithm-scripting/09-missing-letters.js)                             |
+| 10  | [Sorted Union](intermediate-algorithm-scripting/10-sorted-union.js)                                   |
+| 11  | [Convert HTML Entities](intermediate-algorithm-scripting/11-convert-html-entities.js)                 |
+| 12  | [Sum All Odd Fibonacci Numbers](intermediate-algorithm-scripting/12-sum-all-odd-fibonacci-numbers.js) |
