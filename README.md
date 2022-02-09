@@ -43,3 +43,4 @@ All solutions are in JavaScript.
 | 8   | [DNA Pairing](intermediate-algorithm-scripting/08-dna-pairing.js)                               |
 | 9   | [Missing letters](intermediate-algorithm-scripting/09-missing-letters.js)                       |
 | 10  | [Sorted Union](intermediate-algorithm-scripting/10-sorted-union.js)                             |
+| 11  | [Convert HTML Entities](intermediate-algorithm-scripting/11-convert-html-entities.js)           |
