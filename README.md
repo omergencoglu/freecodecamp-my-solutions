@@ -47,3 +47,4 @@ All solutions are in JavaScript.
 | 12  | [Sum All Odd Fibonacci Numbers](intermediate-algorithm-scripting/12-sum-all-odd-fibonacci-numbers.js) |
 | 13  | [Sum All Primes](intermediate-algorithm-scripting/13-sum-all-primes.js)                               |
 | 14  | [Smallest Common Multiple](intermediate-algorithm-scripting/14-smallest-common-multiple.js)           |
+| 15  | [Drop it](intermediate-algorithm-scripting/15-drop-it.js)                                             |
