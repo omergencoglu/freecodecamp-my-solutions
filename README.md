@@ -46,3 +46,4 @@ All solutions are in JavaScript.
 | 11  | [Convert HTML Entities](intermediate-algorithm-scripting/11-convert-html-entities.js)                 |
 | 12  | [Sum All Odd Fibonacci Numbers](intermediate-algorithm-scripting/12-sum-all-odd-fibonacci-numbers.js) |
 | 13  | [Sum All Primes](intermediate-algorithm-scripting/13-sum-all-primes.js)                               |
+| 14  | [Smallest Common Multiple](intermediate-algorithm-scripting/14-smallest-common-multiple.js)           |
