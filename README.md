@@ -48,3 +48,4 @@ All solutions are in JavaScript.
 | 13  | [Sum All Primes](intermediate-algorithm-scripting/13-sum-all-primes.js)                               |
 | 14  | [Smallest Common Multiple](intermediate-algorithm-scripting/14-smallest-common-multiple.js)           |
 | 15  | [Drop it](intermediate-algorithm-scripting/15-drop-it.js)                                             |
+| 16  | [Steamroller](intermediate-algorithm-scripting/16-steamroller.js)                                     |
