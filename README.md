@@ -50,3 +50,4 @@ All solutions are in JavaScript.
 | 15  | [Drop it](intermediate-algorithm-scripting/15-drop-it.js)                                             |
 | 16  | [Steamroller](intermediate-algorithm-scripting/16-steamroller.js)                                     |
 | 17  | [Binary Agents](intermediate-algorithm-scripting/17-binary-agents.js)                                 |
+| 18  | [Everything Be True](intermediate-algorithm-scripting/18-everything-will-be-true.js)                  |
