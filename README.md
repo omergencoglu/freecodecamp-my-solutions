@@ -51,3 +51,4 @@ All solutions are in JavaScript.
 | 16  | [Steamroller](intermediate-algorithm-scripting/16-steamroller.js)                                     |
 | 17  | [Binary Agents](intermediate-algorithm-scripting/17-binary-agents.js)                                 |
 | 18  | [Everything Be True](intermediate-algorithm-scripting/18-everything-will-be-true.js)                  |
+| 19  | [Arguments Optional](intermediate-algorithm-scripting/19-arguments-optional.js)                       |
