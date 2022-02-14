@@ -6,7 +6,7 @@ All solutions are in JavaScript.
 
 ## Basic Algorithm Challenge
 
-[Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+[Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
 
 | #   | My Solution                                                                                            |
 | --- | :----------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ All solutions are in JavaScript.
 
 ## Intermediate Algorithm Challenge
 
-[Link to freeCodeCamp's Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+[Link to freeCodeCamp's Intermediate Challenge](https://learn.https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting/)
 
 | #   | My Solution                                                                                           |
 | --- | :---------------------------------------------------------------------------------------------------- |
@@ -54,3 +54,11 @@ All solutions are in JavaScript.
 | 19  | [Arguments Optional](intermediate-algorithm-scripting/19-arguments-optional.js)                       |
 | 20  | [Make a Person](intermediate-algorithm-scripting/20-make-a-person.js)                                 |
 | 21  | [Map the Debris](intermediate-algorithm-scripting/21-map-the-debris.js)                               |
+
+## JavaScript Algorithms and Data Structures Projects
+
+[Link to freeCodeCamp's JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects/)
+
+| #   | My Solution                                                                                       |
+| --- | :------------------------------------------------------------------------------------------------ |
+| 1   | [Palindrome Checker](javascript-algorithms-and-data-structures-projects/01-palindrome-checker.js) |
