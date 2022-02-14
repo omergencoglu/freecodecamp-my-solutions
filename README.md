@@ -53,3 +53,4 @@ All solutions are in JavaScript.
 | 18  | [Everything Be True](intermediate-algorithm-scripting/18-everything-will-be-true.js)                  |
 | 19  | [Arguments Optional](intermediate-algorithm-scripting/19-arguments-optional.js)                       |
 | 20  | [Make a Person](intermediate-algorithm-scripting/20-make-a-person.js)                                 |
+| 21  | [Map the Debris](intermediate-algorithm-scripting/21-map-the-debris.js)                               |
