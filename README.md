@@ -6,7 +6,7 @@ All solutions are in JavaScript.
 
 ## Basic Algorithm Challenge
 
-[Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+[Link to freeCodeCamp's Basic Algorithm Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
 
 | #   | My Solution                                                                                            |
 | --- | :----------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ All solutions are in JavaScript.
 
 ## Intermediate Algorithm Challenge
 
-[Link to freeCodeCamp's Intermediate Challenge](https://learn.https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting/)
+[Link to freeCodeCamp's Intermediate Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting/)
 
 | #   | My Solution                                                                                           |
 | --- | :---------------------------------------------------------------------------------------------------- |
