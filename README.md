@@ -63,3 +63,4 @@ All solutions are in JavaScript.
 | --- | :---------------------------------------------------------------------------------------------------------- |
 | 1   | [Palindrome Checker](javascript-algorithms-and-data-structures-projects/01-palindrome-checker.js)           |
 | 2   | [Roman Numeral Converter](javascript-algorithms-and-data-structures-projects/02-roman-numeral-converter.js) |
+| 3   | [Caesars Cipher](javascript-algorithms-and-data-structures-projects/03-caesars-cipher.js)                   |
