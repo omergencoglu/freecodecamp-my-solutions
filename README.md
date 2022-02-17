@@ -59,8 +59,9 @@ All solutions are in JavaScript.
 
 [Link to freeCodeCamp's JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
-| #   | My Solution                                                                                                 |
-| --- | :---------------------------------------------------------------------------------------------------------- |
-| 1   | [Palindrome Checker](javascript-algorithms-and-data-structures-projects/01-palindrome-checker.js)           |
-| 2   | [Roman Numeral Converter](javascript-algorithms-and-data-structures-projects/02-roman-numeral-converter.js) |
-| 3   | [Caesars Cipher](javascript-algorithms-and-data-structures-projects/03-caesars-cipher.js)                   |
+| #   | My Solution                                                                                                       |
+| --- | :---------------------------------------------------------------------------------------------------------------- |
+| 1   | [Palindrome Checker](javascript-algorithms-and-data-structures-projects/01-palindrome-checker.js)                 |
+| 2   | [Roman Numeral Converter](javascript-algorithms-and-data-structures-projects/02-roman-numeral-converter.js)       |
+| 3   | [Caesars Cipher](javascript-algorithms-and-data-structures-projects/03-caesars-cipher.js)                         |
+| 4   | [Telephone Number Validator](javascript-algorithms-and-data-structures-projects/04-telephone-number-validator.js) |
