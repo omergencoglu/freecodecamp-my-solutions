@@ -65,3 +65,4 @@ All solutions are in JavaScript.
 | 2   | [Roman Numeral Converter](javascript-algorithms-and-data-structures-projects/02-roman-numeral-converter.js)       |
 | 3   | [Caesars Cipher](javascript-algorithms-and-data-structures-projects/03-caesars-cipher.js)                         |
 | 4   | [Telephone Number Validator](javascript-algorithms-and-data-structures-projects/04-telephone-number-validator.js) |
+| 5   | [Cash Register](javascript-algorithms-and-data-structures-projects/05-cash-register.js)                           |

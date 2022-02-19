@@ -19,8 +19,6 @@
 function telephoneCheck(str) {
   const digits = str.match(/\d+/g);
 
-  function parenthesesChecker() {}
-
   if (digits.join("").length === 10 && digits.length < 4) {
     if (str.includes("(") && !str.includes(")")) {
       return false;
