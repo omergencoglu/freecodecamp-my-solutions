@@ -39,7 +39,6 @@ function checkCashRegister(price, cash, cid) {
   const tempStore = cid.reverse();
   const initialChange = [];
   let difference = cash - price;
-  let result;
 
   for (let i = 0; i < tempStore.length; i++) {
     let [name, value] = tempStore[i];
@@ -74,14 +73,11 @@ function checkCashRegister(price, cash, cid) {
   }
 
   if (changeTotal < difference) {
-    result = { status: "INSUFFICIENT_FUNDS", change: [] };
-    return result;
+    return { status: "INSUFFICIENT_FUNDS", change: [] };
   } else if (changeTotal === referenceTotal) {
-    result = { status: "CLOSED", change: reference };
-    return result;
+    return { status: "CLOSED", change: reference };
   } else {
-    result = { status: "OPEN", change: finalChange };
-    return result;
+    return { status: "OPEN", change: finalChange };
   }
 }
 
